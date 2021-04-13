@@ -8,3 +8,5 @@ In RaktKosh, the user can search for the blood type and the quantity in which he
 A list of nearby hospitals having that blood will be available for the person to reach out.
 
 Setup:- run command: 1) npm i (to install npm packages.) 2) npm start (to start the project at port 3000) 
+
+PPT LINK: https://docs.google.com/presentation/d/156iScnh83CtuYlpj1FNDM_m2kSDnJajj2XsfsKxN8Pg/edit?usp=sharing
